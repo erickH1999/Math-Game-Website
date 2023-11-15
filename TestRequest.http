@@ -1,0 +1,4 @@
+GET https://app.ticketmaster.com/discovery/v2/events.json?apikey=SAkSR3t1pdGu6BCl6BCsIWJYNXTJvU14&city=hartford&classifictionName=music&sort=date,desc
+Accept: application/json
+
+
